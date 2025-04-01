@@ -1,0 +1,278 @@
+"a" wystepuje 5 razy, w liniach: 9 24 
+
+"AAAafirst" wystepuje 1 razy, w liniach: 1 
+
+"AAABthird" wystepuje 1 razy, w liniach: 1 
+
+"AAAsecond" wystepuje 1 razy, w liniach: 1 
+
+"ac" wystepuje 6 razy, w liniach: 2 25 
+
+"accumsan" wystepuje 2 razy, w liniach: 24 27 
+
+"adipiscing" wystepuje 1 razy, w liniach: 1 
+
+"Aenean" wystepuje 2 razy, w liniach: 9 27 
+
+"amet" wystepuje 7 razy, w liniach: 1 27 
+
+"ante" wystepuje 4 razy, w liniach: 7 27 
+
+"arcu" wystepuje 2 razy, w liniach: 21 24 
+
+"at" wystepuje 5 razy, w liniach: 20 28 
+
+"auctor" wystepuje 3 razy, w liniach: 14 25 
+
+"augue" wystepuje 3 razy, w liniach: 7 11 
+
+"bibendum" wystepuje 4 razy, w liniach: 5 21 
+
+"blandit" wystepuje 2 razy, w liniach: 4 8 
+
+"condimentum" wystepuje 1 razy, w liniach: 19 
+
+"congue" wystepuje 1 razy, w liniach: 15 
+
+"consectetur" wystepuje 4 razy, w liniach: 1 28 
+
+"convallis" wystepuje 3 razy, w liniach: 19 23 
+
+"Cras" wystepuje 1 razy, w liniach: 22 
+
+"Curabitur" wystepuje 1 razy, w liniach: 5 
+
+"cursus" wystepuje 2 razy, w liniach: 7 23 
+
+"dapibus" wystepuje 1 razy, w liniach: 18 
+
+"diam" wystepuje 3 razy, w liniach: 2 21 
+
+"dictum" wystepuje 5 razy, w liniach: 3 18 
+
+"dignissim" wystepuje 3 razy, w liniach: 2 28 
+
+"dolor" wystepuje 6 razy, w liniach: 1 24 
+
+"Donec" wystepuje 6 razy, w liniach: 12 26 
+
+"dui" wystepuje 2 razy, w liniach: 24 25 
+
+"Duis" wystepuje 2 razy, w liniach: 26 28 
+
+"efficitur" wystepuje 4 razy, w liniach: 2 24 
+
+"egestas" wystepuje 3 razy, w liniach: 6 24 
+
+"eget" wystepuje 6 razy, w liniach: 18 28 
+
+"eleifend" wystepuje 3 razy, w liniach: 8 22 
+
+"elementum" wystepuje 2 razy, w liniach: 14 22 
+
+"elit" wystepuje 2 razy, w liniach: 1 9 
+
+"enim" wystepuje 3 razy, w liniach: 8 28 
+
+"erat" wystepuje 3 razy, w liniach: 2 18 
+
+"eros" wystepuje 2 razy, w liniach: 8 12 
+
+"est" wystepuje 4 razy, w liniach: 4 21 
+
+"et" wystepuje 6 razy, w liniach: 5 23 
+
+"Etiam" wystepuje 1 razy, w liniach: 10 
+
+"eu" wystepuje 6 razy, w liniach: 4 23 
+
+"euismod" wystepuje 1 razy, w liniach: 14 
+
+"ex" wystepuje 3 razy, w liniach: 13 27 
+
+"facilisis" wystepuje 4 razy, w liniach: 6 28 
+
+"faucibus" wystepuje 2 razy, w liniach: 12 25 
+
+"felis" wystepuje 3 razy, w liniach: 12 27 
+
+"fermentum" wystepuje 1 razy, w liniach: 21 
+
+"feugiat" wystepuje 2 razy, w liniach: 11 27 
+
+"finibus" wystepuje 2 razy, w liniach: 17 28 
+
+"fringilla" wystepuje 1 razy, w liniach: 11 
+
+"gravida" wystepuje 1 razy, w liniach: 23 
+
+"hendrerit" wystepuje 1 razy, w liniach: 3 
+
+"iaculis" wystepuje 2 razy, w liniach: 4 26 
+
+"id" wystepuje 3 razy, w liniach: 11 25 
+
+"imperdiet" wystepuje 1 razy, w liniach: 14 
+
+"in" wystepuje 12 razy, w liniach: 2 27 
+
+"Integer" wystepuje 2 razy, w liniach: 23 28 
+
+"interdum" wystepuje 2 razy, w liniach: 20 28 
+
+"ipsum" wystepuje 5 razy, w liniach: 1 17 
+
+"justo" wystepuje 2 razy, w liniach: 6 14 
+
+"lacus" wystepuje 1 razy, w liniach: 4 
+
+"laoreet" wystepuje 1 razy, w liniach: 15 
+
+"lectus" wystepuje 3 razy, w liniach: 4 26 
+
+"leo" wystepuje 4 razy, w liniach: 4 20 
+
+"libero" wystepuje 1 razy, w liniach: 12 
+
+"ligula" wystepuje 1 razy, w liniach: 8 
+
+"lobortis" wystepuje 2 razy, w liniach: 17 22 
+
+"Lorem" wystepuje 2 razy, w liniach: 1 18 
+
+"Maecenas" wystepuje 2 razy, w liniach: 7 16 
+
+"malesuada" wystepuje 3 razy, w liniach: 10 23 
+
+"massa" wystepuje 3 razy, w liniach: 22 28 
+
+"mattis" wystepuje 2 razy, w liniach: 3 8 
+
+"mauris" wystepuje 9 razy, w liniach: 6 28 
+
+"maximus" wystepuje 1 razy, w liniach: 13 
+
+"metus" wystepuje 2 razy, w liniach: 3 10 
+
+"mi" wystepuje 1 razy, w liniach: 28 
+
+"molestie" wystepuje 1 razy, w liniach: 20 
+
+"mollis" wystepuje 2 razy, w liniach: 8 13 
+
+"Morbi" wystepuje 1 razy, w liniach: 21 
+
+"nec" wystepuje 6 razy, w liniach: 5 25 
+
+"neque" wystepuje 4 razy, w liniach: 4 28 
+
+"nibh" wystepuje 3 razy, w liniach: 2 14 
+
+"nisi" wystepuje 2 razy, w liniach: 2 28 
+
+"nisl" wystepuje 5 razy, w liniach: 2 20 
+
+"non" wystepuje 8 razy, w liniach: 8 27 
+
+"Nulla" wystepuje 6 razy, w liniach: 9 21 
+
+"Nullam" wystepuje 1 razy, w liniach: 14 
+
+"Nunc" wystepuje 4 razy, w liniach: 5 25 
+
+"odio" wystepuje 1 razy, w liniach: 27 
+
+"orci" wystepuje 1 razy, w liniach: 2 
+
+"ornare" wystepuje 2 razy, w liniach: 24 26 
+
+"placerat" wystepuje 2 razy, w liniach: 5 7 
+
+"porta" wystepuje 2 razy, w liniach: 18 26 
+
+"porttitor" wystepuje 4 razy, w liniach: 3 19 
+
+"posuere" wystepuje 3 razy, w liniach: 5 22 
+
+"Praesent" wystepuje 1 razy, w liniach: 17 
+
+"pretium" wystepuje 2 razy, w liniach: 8 28 
+
+"Proin" wystepuje 4 razy, w liniach: 8 24 
+
+"pulvinar" wystepuje 1 razy, w liniach: 13 
+
+"purus" wystepuje 3 razy, w liniach: 3 28 
+
+"quam" wystepuje 3 razy, w liniach: 18 28 
+
+"quis" wystepuje 3 razy, w liniach: 15 28 
+
+"Quisque" wystepuje 1 razy, w liniach: 1 
+
+"rhoncus" wystepuje 2 razy, w liniach: 5 19 
+
+"risus" wystepuje 1 razy, w liniach: 21 
+
+"sagittis" wystepuje 2 razy, w liniach: 12 16 
+
+"sapien" wystepuje 2 razy, w liniach: 20 25 
+
+"sed" wystepuje 7 razy, w liniach: 3 25 
+
+"sem" wystepuje 3 razy, w liniach: 9 15 
+
+"sit" wystepuje 7 razy, w liniach: 1 27 
+
+"sodales" wystepuje 1 razy, w liniach: 9 
+
+"sollicitudin" wystepuje 3 razy, w liniach: 2 17 
+
+"suscipit" wystepuje 2 razy, w liniach: 11 26 
+
+"Suspendisse" wystepuje 2 razy, w liniach: 11 16 
+
+"tellus" wystepuje 2 razy, w liniach: 2 17 
+
+"tempor" wystepuje 2 razy, w liniach: 12 15 
+
+"tempus" wystepuje 3 razy, w liniach: 7 23 
+
+"tincidunt" wystepuje 4 razy, w liniach: 2 25 
+
+"tortor" wystepuje 4 razy, w liniach: 3 15 
+
+"tristique" wystepuje 2 razy, w liniach: 11 16 
+
+"turpis" wystepuje 3 razy, w liniach: 12 18 
+
+"ullamcorper" wystepuje 1 razy, w liniach: 28 
+
+"ultrices" wystepuje 3 razy, w liniach: 11 25 
+
+"ultricies" wystepuje 2 razy, w liniach: 6 27 
+
+"urna" wystepuje 3 razy, w liniach: 9 26 
+
+"varius" wystepuje 5 razy, w liniach: 3 28 
+
+"vehicula" wystepuje 4 razy, w liniach: 1 26 
+
+"vel" wystepuje 6 razy, w liniach: 12 28 
+
+"velit" wystepuje 4 razy, w liniach: 5 25 
+
+"venenatis" wystepuje 2 razy, w liniach: 17 20 
+
+"Vestibulum" wystepuje 2 razy, w liniach: 3 19 
+
+"vitae" wystepuje 3 razy, w liniach: 3 15 
+
+"Vivamus" wystepuje 4 razy, w liniach: 6 17 
+
+"viverra" wystepuje 1 razy, w liniach: 16 
+
+"volutpat" wystepuje 4 razy, w liniach: 4 14 
+
+"vulputate" wystepuje 3 razy, w liniach: 25 27 
+
